@@ -11,7 +11,7 @@ namespace assignment1
             string age = Console.Readline();
             Console.Writeline("your name is " + name);
             Console.Writeline("your age is " + age);
-            Console.readkey();      
+            Console.ReadKey();      
              }
     }
 }
