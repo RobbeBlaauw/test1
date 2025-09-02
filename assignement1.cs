@@ -7,10 +7,10 @@ namespace assignment1
         static void Main(string[] args)
         {
             string name;
-            name = Console.Readline();
-            string age = Console.Readline();
-            Console.Writeline("your name is " + name);
-            Console.Writeline("your age is " + age);
+            name = Console.ReadLine();
+            string age = Console.ReadLine();
+            Console.WriteLine("your name is " + name);
+            Console.WriteLine("your age is " + age);
             Console.ReadKey();      
              }
     }
