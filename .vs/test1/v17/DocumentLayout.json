@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Robbe\\OneDrive\\Documents\\GitHub\\test1\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Robbe\\OneDrive\\Documents\\GitHub\\the horse.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "the horse.html",
+              "DocumentMoniker": "C:\\Users\\Robbe\\OneDrive\\Documents\\GitHub\\the horse.html",
+              "RelativeDocumentMoniker": "..\\the horse.html",
+              "ToolTip": "C:\\Users\\Robbe\\OneDrive\\Documents\\GitHub\\the horse.html",
+              "RelativeToolTip": "..\\the horse.html",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-09-08T13:23:20.224Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
